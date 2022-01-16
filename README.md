@@ -1,4 +1,4 @@
-#PROJECT - SGS
+<h1>PROJECT - SGS</h1>
 
 **Objective**: A simple backend service for management of health SBMs.
 
